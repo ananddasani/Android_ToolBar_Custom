@@ -95,6 +95,4 @@ setSupportActionBar(toolbar);
 
 <img src="app_images/Toolbar Code.png" width="1000" /><br>
 
-<img src="app_images/Toolbar App1.png" width="300" /><br>
-
-<img src="app_images/Toolbar App2.png" width="300" /><br>
+<img src="app_images/Toolbar App1.png" width="300" /> <img src="app_images/Toolbar App2.png" width="300" /><br>
