@@ -1,6 +1,8 @@
 # Android_ToolBar_Custom
 Making Custom ToolBar in Android
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 **1. Make toolbar_layout File**
@@ -93,6 +95,7 @@ setSupportActionBar(toolbar);
 
 # App Highlight
 
-<img src="app_images/Toolbar Code.png" width="1000" /><br>
+![Toolbar App1](https://user-images.githubusercontent.com/74413402/192095494-bdd7be4e-f9f8-4cbb-9bec-50d9cffee32a.png)
+![Toolbar App2](https://user-images.githubusercontent.com/74413402/192095498-d9d91892-349c-4ab9-87b3-238139de0275.png)
+![Toolbar Code](https://user-images.githubusercontent.com/74413402/192095499-19f8663f-924d-406c-a09e-e5706c279186.png)
 
-<img src="app_images/Toolbar App1.png" width="300" /> <img src="app_images/Toolbar App2.png" width="300" /><br>
